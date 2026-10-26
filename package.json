@@ -1,0 +1,9 @@
+{
+  "name": "servicio-auth",
+  "version": "1.0.0",
+  "description": "Servicio web de registro e inicio de sesión",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "license": "ISC",
+  "dependencies": { "express": "^4.19.2" }
+}
